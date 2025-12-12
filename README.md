@@ -2,7 +2,7 @@
 
 Predict YouTube video ad-revenue using ML with Streamlit Deployment
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project aims to **predict YouTube Ad Revenue** based on video-level performance metrics such as:
 
@@ -219,7 +219,9 @@ Predicted Revenue: ₹ 3,210.45
 
 ## 🏁 **Final Output Screenshot**
 
-(Add screenshot here after uploading)
+<img width="1600" height="729" alt="image" src="https://github.com/user-attachments/assets/fb785e9d-62fb-4a50-9b4f-3ea94251dc31" />
+<img width="1600" height="796" alt="image" src="https://github.com/user-attachments/assets/8c251413-818f-43f5-bbd1-651dddaae8b6" />
+
 
 ---
 
@@ -231,16 +233,5 @@ Beginner Machine Learning & Data Science Enthusiast
 
 ---
 
-## ⭐ **If you like this project — give it a star on GitHub!**
+## ⭐ **If you like this project — give it a star on Github!**.
 
----
-
-If you want, I can also create:
-
-✔ `requirements.txt`
-✔ Project folder structure
-✔ GIF preview badge
-✔ GitHub profile badge
-✔ A logo for your project
-
-Just tell me **"create requirements file"** or **"add badges"**.
