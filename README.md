@@ -1,8 +1,8 @@
-⭐ YouTube Revenue Prediction – Machine Learning Project
+📊YouTube Revenue Prediction – Machine Learning Project
 
 Predict YouTube video ad-revenue using ML with Streamlit Deployment
 
-📌 **Project Overview**
+📌 Project Overview
 
 This project aims to **predict YouTube Ad Revenue** based on video-level performance metrics such as:
 
