@@ -228,8 +228,7 @@ Predicted Revenue: ₹ 3,210.45
 ## 🙌 **Author**
 
 **Mohammed Ansari**
-Beginner Machine Learning & Data Science Enthusiast
-📧 Contact: (add your email or remove this line)
+Beginner Machine Learning & Data Science Enthusiast.
 
 ---
 
